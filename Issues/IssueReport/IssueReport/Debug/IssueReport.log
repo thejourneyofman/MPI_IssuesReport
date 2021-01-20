@@ -1,0 +1,21 @@
+﻿  IssueReport.cpp
+D:\MSMPI\Issues\IssueReport\IssueReport\IssueReport.cpp(17,30): warning C4018: '<': signed/unsigned mismatch
+D:\MSMPI\Issues\IssueReport\IssueReport\IssueReport.cpp(18,27): warning C4244: 'argument': conversion from 'const int' to 'const _Ty', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+D:\MSMPI\Issues\IssueReport\IssueReport\IssueReport.cpp(19,27): warning C4244: 'argument': conversion from 'const int' to 'const _Ty', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+D:\MSMPI\Issues\IssueReport\IssueReport\IssueReport.cpp(20,28): warning C4244: 'argument': conversion from 'unsigned int' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+D:\MSMPI\Issues\IssueReport\IssueReport\IssueReport.cpp(25,29): warning C4018: '<': signed/unsigned mismatch
+D:\MSMPI\Issues\IssueReport\IssueReport\IssueReport.cpp(34,29): warning C4018: '<': signed/unsigned mismatch
+D:\MSMPI\Issues\IssueReport\IssueReport\IssueReport.cpp(50,29): warning C4018: '<': signed/unsigned mismatch
+  IssueReport.vcxproj -> D:\MSMPI\Issues\IssueReport\Debug\IssueReport.exe
